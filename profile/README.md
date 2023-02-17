@@ -6,6 +6,10 @@ The [DLaxV](https://dlaxv.de/) (Deutscher Lacrosse Verband/German Lacrosse Assoz
 
 You want to programm an app or a website for making a lacrossers live easier? You have build something usefull for your team and want to share how you made it? Or you have an idea and need help to get started. Maybe you are an expert in stringing or how to set up a stick and want to share your knowledge? Just get in touch by sending an email to github@dlaxv.de and shortly explain your idea. We then figure out how to help you. For example we make you an organisation member to start a repo or we also can upload stuff for you. We also can help you to find a way to make your idea reality. Grow the game!!
 
+## Contents
+
+Below you can find all the Hub´s repositories. A repository is like a folder containing all information like code, drawings, instruction, manuels etc. relating to one topic. If your topic consists of more than one part like the Shot Clock Web App with a [client](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client) and a [server](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-server) enviroment you can split your content in seperated repositories. For sharing on top or backround information you can use the wiki feature of github like in the (Open Shot Clock Wiki](https://github.com/DLaxV-Community-Projects-Hub/Open-Shot-Clock/wiki).
+
 ## Contact
 
 github@dlaxv.de
