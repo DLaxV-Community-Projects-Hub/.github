@@ -4,7 +4,7 @@ The [DLaxV](https://dlaxv.de/) (Deutscher Lacrosse Verband/German Lacrosse Assoz
 
 ## How to Contribute
 
-You want to programm an app or a website for making a lacrossers live easier? You have build something usefull for your team and want to share how you made it? Or you have an idea and need help to get started. Maybe you are an expert in stringing or how to set up a stick and want to share your knowledge? Just get in touch by sending an email to github@dlaxv.de and shortly explain your idea. We then figure out how to help you. For example we make you an organisation member to start a repo or we also can upload stuff for you. We also can help you to find a way to make your idea reality. Grow the game!!
+You want to programm an app or a website for making a lacrosser´s live easier? You have build something usefull for your team and want to share how you made it? Or you have an idea and need help to get started. Maybe you are an expert in stringing or how to set up a stick and want to share your knowledge? Just get in touch by sending an email to github@dlaxv.de and shortly explain your idea. We then figure out how to help you. For example we make you an organisation member to start a repo or we also can upload stuff for you. We also can help you to find a way to make your idea reality. Grow the game!!
 
 ## Contents
 
