@@ -11,6 +11,15 @@ You want to program an app or a website to make the lives of many lacrosse playe
 
 Below you can find all the Hub´s repositories. A repository is like a folder containing all information e.g., code, drawings, instruction, manuals etc. relating to one topic. If your topic consists of more than one part as the Shot Clock Web App does - with a [client](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client) and a [server](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-server) environment - you can split your content in separated repositories. For sharing on top or background information you can use the wiki feature of Github as it was done for the Open Shot Clock Wiki.
 
+## Projects on the Hub
+
+- [Open Shot Clock](https://github.com/DLaxV-Community-Projects-Hub/Open-Shot-Clock)
+- [Shot Clock Web App](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client/wiki/Shot-Clock-Web-App-Wiki)
+  - [client](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client)
+  - [server](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-server)
+- [Portable Box Lacrosse Goal v2.1](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable)
+- [Portable Box Lacrosse Goal v1.0](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v1.0-Disassemblable-Rigid-Bar)
+
 ## Contact
 
 github@dlaxv.de
