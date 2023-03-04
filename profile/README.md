@@ -20,8 +20,8 @@ Below you can find all the Hub´s repositories. A repository is like a folder co
 - [Shot Clock Web App](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client/wiki/Shot-Clock-Web-App-Wiki)
   - [client](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client)
   - [server](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-server)
-- [Portable Box Lacrosse Goal v2.1](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable)
-- [Portable Box Lacrosse Goal v1.0](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v1.0-Disassemblable-Rigid-Bar)
+- [Portable Box Lacrosse Goal v2.1](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Transportable-Goal-v2.1)
+- [Portable Box Lacrosse Goal v1.0](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Transportable-Goal-v1.0)
 
 ## Contact
 
