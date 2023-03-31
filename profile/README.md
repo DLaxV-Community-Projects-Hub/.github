@@ -1,4 +1,4 @@
-<img src="https://github.com/DLaxV-Community-Projects-Hub/.github/blob/main/assets/banner1.png" width=100% height=100%>  
+<img src="https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client/blob/main/assets/banner1.png" width=100% height=100%>  
   
 
 # DLaxV Community Projects Hub
