@@ -13,7 +13,7 @@ You want to program an app or a website to make the lives of many lacrosse playe
 
 ## Contents
 
-Below you can find all the Hub´s repositories. A repository is like a folder containing all information e.g., code, drawings, instruction, manuals etc. relating to one topic. If your topic consists of more than one part as the Shot Clock Web App does - with a [client](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client) and a [server](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-server) environment - you can split your content in separated repositories. For sharing on top or background information you can use the wiki feature of Github as it was done for the Open Shot Clock Wiki.
+Below you can find all the Hub´s repositories. A repository is like a folder containing all information e.g. code, drawings, instruction, manuals etc. relating to one topic. If your topic consists of more than one part as the Shot Clock Web App does - with a [client](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-client) and a [server](https://github.com/DLaxV-Community-Projects-Hub/shotclock-web-server) environment - you can split your content in separated repositories. For sharing on top or background information you can use the wiki feature of Github as it was done for the Open Shot Clock Wiki.
 
 ## How to Collaborate
 
